@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scottxwalsh
 - 👀 I’m interested in the intersection of philosophy and finance, which means I am fascinated with crypto.
-- 🌱 I’m currently learning Python. Taking my talents and ability to create to the next level. I am versed in SQL, Excel, and BI tools like Looker and Dune Analytics.
+- 🌱 I’m currently learning Python. Taking my talents and ability to create to the next level. I am versed in SQL, Excel, and BI tools like Looker, PowerBI, and Dune Analytics.
 - 💞️ I write about cryptocurrencies and businesses, imagine possible futures, and persist to make sense of an increasingly complex world.
 - 📫 How to reach me -- @scottxwalsh on Twitter.
